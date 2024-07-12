@@ -1,0 +1,5 @@
+candidate-crud/node_modules/
+djangopart/*.pyc
+djangopart/__pycache__/
+djangopart/.env
+.vscode/
